@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Jean Paul - About</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+    <h1>About Me</h1>
+    <nav>
+        <ul class="nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html" class="active">About</a></li>
+            <li><a href="resume.html">Résumé</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Background</h2>
+        <p>
+            My name is <strong>Jean G. Paul</strong>, and I bring a multidimensional background in
+            information technology, customer service, sales, and dance instruction. I am fluent in both
+            English and French and have built my professional journey through continuous learning,
+            hands-on experience, and community engagement.
+        </p>
+        <p>
+            My experience includes an IT support internship, sales consulting at Dan O’Brien Kia, and
+            many years of teaching Kizomba dance and managing my own studio. This combination of
+            technical and creative work has sharpened my communication, problem-solving, and leadership skills.
+        </p>
+    </section>
+
+    <section>
+        <h2>Professional Goals</h2>
+        <p>
+            My long-term goal is to continue growing in the IT field, focusing on areas such as
+            technical support, systems administration, cloud technologies, and network security.
+            I am committed to ongoing education and professional certifications, including
+            CompTIA A+, Server+, and Cloud+.
+        </p>
+        <p>
+            I am especially interested in roles that value <strong>teamwork</strong>,
+            <strong>continuous improvement</strong>, and <strong>excellent customer service</strong>.
+        </p>
+    </section>
+
+    <section>
+        <h2>Core Strengths</h2>
+        <ul>
+            <li><strong>Technical Skills:</strong> Experience with Windows, macOS, Linux, Unix, and database tools.</li>
+            <li><strong>Customer Service:</strong> Strong background supporting clients and maintaining satisfaction.</li>
+            <li><strong>Teaching & Leadership:</strong> Over a decade of Kizomba instruction and studio leadership.</li>
+            <li><strong>Communication:</strong> Verbal and written communication in English and French.</li>
+            <li><strong>Adaptability:</strong> Comfortable learning new tools, roles, and environments.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Profile Image</h2>
+        <!-- Replace with your own image -->
+        <img src="images/profile.jpg"
+             alt="Professional headshot of Jean G. Paul"
+             class="profile-image">
+    </section>
+</main>
+
+<footer>
+    <p>&copy; <span id="year"></span> Jean G. Paul. All rights reserved.</p>
+</footer>
+</body>
+</html>
